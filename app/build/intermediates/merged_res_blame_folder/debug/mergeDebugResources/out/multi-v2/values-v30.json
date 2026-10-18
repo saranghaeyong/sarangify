@@ -1,0 +1,38 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.github.musicyou.app-mergeDebugResources-45:/values-v30/values-v30.xml",
+            "map": [
+                {
+                    "source": "/home/codespace/.gradle/caches/9.8.1/transforms/58bdfb68cf821fd47e976d315af3501f/transformed/core-splashscreen-1.2.0/res/values-v30/values-v30.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "7",
+                        "endColumns": "12",
+                        "endOffsets": "433"
+                    },
+                    "to": {
+                        "startLines": "3",
+                        "startColumns": "4",
+                        "startOffsets": "128",
+                        "endLines": "8",
+                        "endColumns": "12",
+                        "endOffsets": "506"
+                    }
+                },
+                {
+                    "source": "/home/codespace/.gradle/caches/9.8.1/transforms/82c874e1a091ed36ec7661ef6ba03a25/transformed/material3/res/values-v30/values-v30.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "72",
+                        "endOffsets": "123"
+                    }
+                }
+            ]
+        }
+    ]
+}

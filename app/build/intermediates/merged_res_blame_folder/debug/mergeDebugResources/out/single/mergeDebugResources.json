@@ -1,0 +1,98 @@
+[
+    {
+        "merged": "com.github.musicyou.app-debug-47:/drawable_alert_circle.xml.flat",
+        "source": "com.github.musicyou.app-main-49:/drawable/alert_circle.xml"
+    },
+    {
+        "merged": "com.github.musicyou.app-debug-47:/drawable_play_skip_back.xml.flat",
+        "source": "com.github.musicyou.app-main-49:/drawable/play_skip_back.xml"
+    },
+    {
+        "merged": "com.github.musicyou.app-debug-47:/mipmap-xhdpi_ic_banner.png.flat",
+        "source": "com.github.musicyou.app-main-49:/mipmap-xhdpi/ic_banner.png"
+    },
+    {
+        "merged": "com.github.musicyou.app-debug-47:/xml_automotive_app_desc.xml.flat",
+        "source": "com.github.musicyou.app-main-49:/xml/automotive_app_desc.xml"
+    },
+    {
+        "merged": "com.github.musicyou.app-debug-47:/drawable_pause.xml.flat",
+        "source": "com.github.musicyou.app-main-49:/drawable/pause.xml"
+    },
+    {
+        "merged": "com.github.musicyou.app-debug-47:/xml-v25_shortcuts.xml.flat",
+        "source": "com.github.musicyou.app-debug-48:/xml-v25/shortcuts.xml"
+    },
+    {
+        "merged": "com.github.musicyou.app-debug-47:/drawable_disc.xml.flat",
+        "source": "com.github.musicyou.app-main-49:/drawable/disc.xml"
+    },
+    {
+        "merged": "com.github.musicyou.app-debug-47:/drawable_play.xml.flat",
+        "source": "com.github.musicyou.app-main-49:/drawable/play.xml"
+    },
+    {
+        "merged": "com.github.musicyou.app-debug-47:/mipmap-anydpi_ic_launcher_round.xml.flat",
+        "source": "com.github.musicyou.app-main-49:/mipmap-anydpi/ic_launcher_round.xml"
+    },
+    {
+        "merged": "com.github.musicyou.app-debug-47:/mipmap-anydpi_ic_banner.xml.flat",
+        "source": "com.github.musicyou.app-main-49:/mipmap-anydpi/ic_banner.xml"
+    },
+    {
+        "merged": "com.github.musicyou.app-debug-47:/drawable_ic_launcher_foreground.xml.flat",
+        "source": "com.github.musicyou.app-debug-48:/drawable/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "com.github.musicyou.app-debug-47:/drawable_playlist.xml.flat",
+        "source": "com.github.musicyou.app-main-49:/drawable/playlist.xml"
+    },
+    {
+        "merged": "com.github.musicyou.app-debug-47:/drawable_github.xml.flat",
+        "source": "com.github.musicyou.app-main-49:/drawable/github.xml"
+    },
+    {
+        "merged": "com.github.musicyou.app-debug-47:/drawable_heart_outline.xml.flat",
+        "source": "com.github.musicyou.app-main-49:/drawable/heart_outline.xml"
+    },
+    {
+        "merged": "com.github.musicyou.app-debug-47:/drawable_play_skip_forward.xml.flat",
+        "source": "com.github.musicyou.app-main-49:/drawable/play_skip_forward.xml"
+    },
+    {
+        "merged": "com.github.musicyou.app-debug-47:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "com.github.musicyou.app-main-49:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "com.github.musicyou.app-debug-47:/drawable_offline.xml.flat",
+        "source": "com.github.musicyou.app-main-49:/drawable/offline.xml"
+    },
+    {
+        "merged": "com.github.musicyou.app-debug-47:/drawable_shuffle.xml.flat",
+        "source": "com.github.musicyou.app-main-49:/drawable/shuffle.xml"
+    },
+    {
+        "merged": "com.github.musicyou.app-debug-47:/drawable_musical_notes.xml.flat",
+        "source": "com.github.musicyou.app-main-49:/drawable/musical_notes.xml"
+    },
+    {
+        "merged": "com.github.musicyou.app-debug-47:/xml_locales_config.xml.flat",
+        "source": "com.github.musicyou.app-main-49:/xml/locales_config.xml"
+    },
+    {
+        "merged": "com.github.musicyou.app-debug-47:/drawable_app_icon.xml.flat",
+        "source": "com.github.musicyou.app-main-49:/drawable/app_icon.xml"
+    },
+    {
+        "merged": "com.github.musicyou.app-debug-47:/drawable_heart.xml.flat",
+        "source": "com.github.musicyou.app-main-49:/drawable/heart.xml"
+    },
+    {
+        "merged": "com.github.musicyou.app-debug-47:/drawable_search.xml.flat",
+        "source": "com.github.musicyou.app-main-49:/drawable/search.xml"
+    },
+    {
+        "merged": "com.github.musicyou.app-debug-47:/mipmap-anydpi-v26_ic_banner.xml.flat",
+        "source": "com.github.musicyou.app-main-49:/mipmap-anydpi-v26/ic_banner.xml"
+    }
+]
