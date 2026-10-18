@@ -3,3 +3,10 @@
 **/build/
 .gradle/
 local.properties
+
+# Gradle and Kotlin generated files
+**/build/
+.gradle/
+**/.gradle/
+local.properties
+**/local.properties
