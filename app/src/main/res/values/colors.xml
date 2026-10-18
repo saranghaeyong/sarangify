@@ -1,5 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
 	<color name="sarangify_background">#050505</color>
+	<color name="sarangify_splash_background">#000000</color>
 	<color name="sarangify_green">#1ED760</color>
+	<color name="sarangify_lime">#C6F34C</color>
 </resources>

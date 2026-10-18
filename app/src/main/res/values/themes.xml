@@ -3,8 +3,8 @@
     <style name="Theme.Sarangify" parent="android:Theme.Material.NoActionBar" />
 
     <style name="Theme.App.Starting" parent="Theme.SplashScreen">
-        <item name="windowSplashScreenAnimatedIcon">@drawable/app_icon</item>
-        <item name="windowSplashScreenBackground">@color/sarangify_background</item>
+        <item name="windowSplashScreenAnimatedIcon">@drawable/headset_icon</item>
+        <item name="windowSplashScreenBackground">@color/sarangify_splash_background</item>
         <item name="postSplashScreenTheme">@style/Theme.Sarangify</item>
     </style>
 </resources>
