@@ -1,12 +1,9 @@
-
-# Generated build files
-**/build/
 .gradle/
-local.properties
-
-# Gradle and Kotlin generated files
 **/build/
-.gradle/
-**/.gradle/
 local.properties
-**/local.properties
+.idea/
+*.iml
+.DS_Store
+captures/
+.externalNativeBuild/
+.cxx/
