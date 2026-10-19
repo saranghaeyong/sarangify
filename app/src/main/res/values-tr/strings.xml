@@ -58,10 +58,13 @@
 <string name="android_auto_description">Android Auto desteğini etkinleştir</string>
 <string name="android_auto_information">Android Auto geliştirici ayarlarında "Bilinmeyen kaynaklar"ı etkinleştirmeyi unutmayın.</string>
 <string name="ignore_battery_optimizations">Pil optimizasyonlarını yok say</string>
+<string name="battery_optimization_settings_missing">Couldn\'t find battery optimization settings. Please allow SARANGIFY manually.</string>
 <string name="service_lifetime_description">Pil optimizasyonlarını kapatmak yeterli olmadığında</string>
 <string name="service_lifetime_information">Pil optimizasyonları uygulanırsa, duraklatıldığında oynatma bildirimi aniden kaybolabilir.</string>
 <string name="service_lifetime_information_plus">Android 12’den itibaren "Yenilmez servis" seçeneğinin çalışması için pil optimizasyonlarının kapatılması gerekir.</string>
 <string name="about">Hakkında</string>
+<string name="github_profile">GitHub profile</string>
+<string name="source_code">SARANGIFY source code</string>
 <string name="search">Ara</string>
 <string name="featured">Öne çıkan</string>
 <string name="confirm">Onayla</string>

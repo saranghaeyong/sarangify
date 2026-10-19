@@ -58,10 +58,13 @@
     <string name="android_auto_description">Activer la prise en charge d\'Android Auto</string>
     <string name="android_auto_information">N\'oubliez pas d\'activer \"Sources inconnues\" dans les paramètres du développeur d\'Android Auto.</string>
     <string name="ignore_battery_optimizations">Ignorer les optimisations de la batterie</string>
+    <string name="battery_optimization_settings_missing">Couldn\'t find battery optimization settings. Please allow SARANGIFY manually.</string>
     <string name="service_lifetime_description">Lorsque la désactivation des optimisations de la batterie ne suffit pas</string>
     <string name="service_lifetime_information">Si des optimisations de batterie sont appliquées, la notification de lecture peut soudainement disparaître lors de la mise en pause.</string>
     <string name="service_lifetime_information_plus">Depuis Android 12, la désactivation des optimisations de la batterie est nécessaire pour que l\'option \"Service invincible\" prenne effet.</string>
     <string name="about">À propos</string>
+    <string name="github_profile">GitHub profile</string>
+    <string name="source_code">SARANGIFY source code</string>
     <string name="search">Recherche…</string>
     <string name="featured">En vedette</string>
     <string name="confirm">Confirmer</string>

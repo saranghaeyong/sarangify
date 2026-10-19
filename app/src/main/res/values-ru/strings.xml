@@ -58,10 +58,13 @@
     <string name="android_auto_description">Включить поддержку Android Auto</string>
     <string name="android_auto_information">Не забудьте включить \"Неизвестные источники\" в настройках разработчика Android Auto.</string>
     <string name="ignore_battery_optimizations">Игнорировать оптимизацию энергопотребления</string>
+    <string name="battery_optimization_settings_missing">Couldn\'t find battery optimization settings. Please allow SARANGIFY manually.</string>
     <string name="service_lifetime_description">Когда выключение оптимизации энергопотребления недостаточно</string>
     <string name="service_lifetime_information">Если оптимизация энергопотребления включена, уведомление с музыкой может внезапно исчезнуть во время паузы.</string>
     <string name="service_lifetime_information_plus">Начиная с Android 12, для активации функции \"Неуязвимый сервис\" необходимо отключить оптимизацию энергопотребления.</string>
     <string name="about">О приложении</string>
+    <string name="github_profile">GitHub profile</string>
+    <string name="source_code">SARANGIFY source code</string>
     <string name="search">Поиск</string>
     <string name="featured">Рекомендации</string>
     <string name="confirm">Подтвердить</string>

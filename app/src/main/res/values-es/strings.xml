@@ -58,10 +58,13 @@
     <string name="android_auto_description">Activar el soporte para Android Auto</string>
     <string name="android_auto_information">Recuerda habilitar \"Orígenes desconocidos\" en las opciones para desarrolladores de Android Auto.</string>
     <string name="ignore_battery_optimizations">Ignorar la optimización de la batería</string>
+    <string name="battery_optimization_settings_missing">Couldn\'t find battery optimization settings. Please allow SARANGIFY manually.</string>
     <string name="service_lifetime_description">Cuando desactivar la optimización de la batería no es suficiente</string>
     <string name="service_lifetime_information">Si se aplican las optimizaciones de la batería, la notificación de reproducción puede desaparecer repentinamente cuando se detiene la aplicación.</string>
     <string name="service_lifetime_information_plus">A partir de Android 12, debes deshabilitar las optimizaciones de la batería para que el servicio invencible funcione.</string>
     <string name="about">Acerca de</string>
+    <string name="github_profile">GitHub profile</string>
+    <string name="source_code">SARANGIFY source code</string>
     <string name="search">Buscar</string>
     <string name="featured">Destacado</string>
     <string name="confirm">Confirmar</string>

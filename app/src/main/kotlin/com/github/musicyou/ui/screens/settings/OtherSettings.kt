@@ -47,6 +47,7 @@ import com.github.musicyou.utils.toast
 fun OtherSettings() {
     val context = LocalContext.current
     val playerPadding = LocalPlayerPadding.current
+    val batteryOptimizationSettingsMissing = stringResource(id = R.string.battery_optimization_settings_missing)
 
     var isAndroidAutoEnabled by remember {
         val component = ComponentName(context, PlayerMediaBrowserService::class.java)
@@ -123,7 +124,7 @@ fun OtherSettings() {
                             Intent(Settings.ACTION_IGNORE_BATTERY_OPTIMIZATION_SETTINGS)
                         )
                     } catch (_: ActivityNotFoundException) {
-                        context.toast(context.getString(R.string.battery_optimization_settings_missing))
+                        context.toast(batteryOptimizationSettingsMissing)
                     }
                 }
             },
